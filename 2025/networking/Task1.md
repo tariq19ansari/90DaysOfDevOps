@@ -204,4 +204,4 @@ _ *Example*: Using Telnet or SSH to access a server from another location.
 - [OSI Model Explained (GeeksforGeeks)](https://www.geeksforgeeks.org/layers-of-osi-model/)
 
 ## Updates 🔗
-**Follow my journey:** [LinkedIn Profile](https://www.linkedin.com/in/yashbharitkar25learns-cloud/)
+**Follow my journey:** [LinkedIn Profile](https://www.linkedin.com/in/tariq-ansari/)
